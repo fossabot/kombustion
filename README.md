@@ -1,6 +1,7 @@
 ## Kombustion
 
 [![Build Status](https://travis-ci.org/KablamoOSS/kombustion.svg?branch=master)](https://travis-ci.org/KablamoOSS/kombustion)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fiann0036%2Fkombustion.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fiann0036%2Fkombustion?ref=badge_shield)
 [![](https://tokei.rs/b1/github/KablamoOSS/kombustion)](https://github.com/KablamoOSS/kombustion)
 [![Go Report Card](https://goreportcard.com/badge/github.com/KablamoOSS/kombustion)](https://goreportcard.com/report/github.com/KablamoOSS/kombustion)
 [![Coverage Status](https://coveralls.io/repos/github/KablamoOSS/kombustion/badge.svg?branch=master)](https://coveralls.io/github/KablamoOSS/kombustion?branch=master)
@@ -240,3 +241,6 @@ This project is licensed under the
 ---
 
 Made with :heart: in Australia.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fiann0036%2Fkombustion.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fiann0036%2Fkombustion?ref=badge_large)
